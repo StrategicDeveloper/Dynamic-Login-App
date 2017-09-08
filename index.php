@@ -4,6 +4,6 @@
 	<title>User Login &amp; Registration</title>
 </head>
 <body>
-		<?php echo "Hello Everyone"; ?>
+	<h1><?php echo "Hello Everyone"; ?></h1>	
 </body>
 </html>
