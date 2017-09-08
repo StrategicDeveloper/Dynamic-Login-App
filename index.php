@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>User Login &amp; Registration</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
 	<h1><?php echo "Hello Everyone"; ?></h1>
