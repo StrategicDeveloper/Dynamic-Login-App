@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>User Login &amp; Registration</title>
 	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
@@ -14,3 +16,6 @@
 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>	
 </body>
 </html>
+
+
+
